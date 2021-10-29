@@ -1,1 +1,1 @@
-# JavaScript-Challenge-Password-Generator
+# 02-JavaScript-Challenge
